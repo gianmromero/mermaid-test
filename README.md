@@ -1,5 +1,5 @@
 # mermaid-test
-'''mermaid
+```mermaid
 flowchart LR
-  A-- "test" -->B
-'''
+A-- "test" -->B
+```
